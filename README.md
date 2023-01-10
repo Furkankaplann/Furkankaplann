@@ -20,7 +20,7 @@ Self-taught junior frontend developer with a passion for creating intuitive user
   ![](https://img.shields.io/badge/-Styled%20Components-F79BE0?style=flat-square&logo=styled-components&logoColor=000)
 
 # 📊 GitHub Stats:
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=enesskplnn&show_icons=true&theme=gradient)</br>
+![](https://github-readme-stats.vercel.app/api?username=Furkankaplann&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Furkankaplann&theme=dark&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Furkankaplann&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
