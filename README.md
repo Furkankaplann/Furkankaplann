@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furkan KAPLAN
 - 👀 Html , Css , Javascript , React-Native  
-- 📫 [![Outlook](https://img.shields.io/badge/-furkankaplan.34@hotmail.com-0077B5?style=flat-square&logo=Outlook&logoColor=white)](https://mailto:furkankaplan.34@hotmail.com)
+- 📫 [![gmail](https://img.shields.io/badge/-furkankaplan.34@hotmail.com-0077B5?style=flat-square&logo=Outlook&logoColor=white)](https://mailto:fkaplanntr@gmail.com)
 # 💫 About Me:  
 Self-taught junior frontend developer with a passion for creating intuitive user experiences. Constantly improving skills and pushing boundaries on the web.
 
