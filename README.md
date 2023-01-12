@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Furkan KAPLAN
 - 👀 Html , Css , Javascript , React-Native  
-- 📫 
+- 📫 <a href=mailto:<nowiki>fkaplanntr@gmail.com?subject="HTML link">Bize e-posta göndermek için buraya tıklayın!!!</a>
 # 💫 About Me:  
 Self-taught junior frontend developer with a passion for creating intuitive user experiences. Constantly improving skills and pushing boundaries on the web.
 
