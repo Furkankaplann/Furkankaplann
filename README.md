@@ -2,7 +2,7 @@
 - 👀 Html , Css , Javascript , React-Native  
 - 📫
 # 💫 About Me:  
-Self-taught junior frontend developer with a passion for creating intuitive user experiences. Constantly improving skills and pushing boundaries on the web.
+React Native
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/furkankaplann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
